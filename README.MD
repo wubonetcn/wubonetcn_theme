@@ -6,7 +6,7 @@
 主题官网：https://www.wubo.net.cn/download_wubonetcn_theme/
 
 ## 下载地址
-Coding：https://coding.net/u/wubonetcn/p/wubonetcn_theme/git
+Coding: https://coding.net/u/wubonetcn/p/wubonetcn_theme/git
 
 Github: https://github.com/wubonetcn/wubonetcn_theme
 
