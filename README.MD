@@ -29,6 +29,8 @@ Github: https://github.com/wubonetcn/wubonetcn_theme
 ICP备案号请在 Settings>常规 里设置ICP备案号。
 
 ## 更新历史
+2018.12.02    新增文章页标签
+
 2018.10.24    首页文章列表宽度修复，增加托管地Github
 
 2018.10.04    完成PC版模板并托管在coding.net
