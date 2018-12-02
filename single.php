@@ -11,6 +11,13 @@
 			<div class="single_content">
 				<?php the_content(); ?>
 			</div>
+            <div class="single_content_tags">
+                <span>Tags:</span><?php if ( has_tag() ) {
+					the_tags( 'Tags', ', ', '' );
+				} else {
+					echo "<span>无标签</span>";
+				} ?>
+            </div>
 		</div>
 		<?php else : ?>
 			<div class="errorbox">
