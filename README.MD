@@ -40,8 +40,8 @@ ICP备案号请在 Settings>常规 里设置ICP备案号。
 
 微信
 
-![微信](https://www.wubo.net.cn/wp-content/uploads/2018/10/weixin.png)
+![微信](https://www.wubo.net.cn/usr/themes/Akina/images/donate/wedo.jpg)
 
 支付宝
 
-![支付宝](https://www.wubo.net.cn/wp-content/uploads/2018/10/zhifubao.png)
+![支付宝](https://www.wubo.net.cn/usr/themes/Akina/images/donate/alido.jpg)
